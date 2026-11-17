@@ -1,0 +1,16 @@
+
+{
+  "expo": {
+    "name": "GLOBNEX",
+    "slug": "globnex",
+    "version": "1.0.0",
+    "orientation": "portrait",
+    "userInterfaceStyle": "dark",
+    "splash": {
+      "backgroundColor": "#100D19"
+    },
+    "android": {
+      "package": "com.globnex.social"
+    }
+  }
+}
